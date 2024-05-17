@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayotomide
 - 👀 I’m interested in data science and engineering
-- 🌱 I’m currently learning data analytics using SQL, Excel, R and visualisation tools such as Tableau, and Ms. Power BI
+- 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on any project that will help my learning
 - 📫 How to reach me: ayotomideakinojo@gmail.com
 
